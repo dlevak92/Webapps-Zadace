@@ -1,0 +1,1 @@
+//2. Napiši funkciju koja pretvara HRK u EUR
