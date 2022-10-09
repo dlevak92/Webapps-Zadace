@@ -5,5 +5,4 @@ const tecaj = 7.5345;
 function konvertiraj(hrk,tecaj) {
   return hrk * tecaj;
 }
-console.log("Konverzija unesene kolicine Kuna u Eure iznosi:");
-console.log(konvertiraj(hrk,tecaj));
+console.log("Konverzija unesene kolicine Kuna u Eure iznosi:"+konvertiraj(hrk,tecaj)+"€");
