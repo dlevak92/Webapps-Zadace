@@ -1,0 +1,5 @@
+inos-MBP:Webapps-Zadace legendic$ node -v or node –version
+v14.15.0
+Dinos-MBP:Webapps-Zadace legendic$ node -v
+v14.15.0
+Dinos-MBP:Webapps-Zadace legendic$ 
